@@ -4,4 +4,4 @@ Building of a basic AmazonLex Bot to get user inputs.
 
 # Trial Run 
 
-!(lexBot)[]
+!(lexBot)[basicLexBot.mp4]
